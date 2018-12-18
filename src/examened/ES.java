@@ -8,7 +8,7 @@ package examened;
 import java.util.Scanner;
 
 /**
- *
+ * 
  * @author Usuario
  */
 public class ES {
